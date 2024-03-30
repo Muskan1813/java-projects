@@ -1,5 +1,4 @@
 
-// 123456789098765
 import java.util.LinkedList;
 enum CellType {
 
